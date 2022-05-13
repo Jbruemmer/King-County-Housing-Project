@@ -24,9 +24,13 @@ The initial indication was that price correlated with the amount of living space
 
 ---
 ## Modeling
+Least Squares modeling technique was used to further clarify the relationship between price and these house features (sqft_living, bedrooms, bathrooms). The R Squared vaue was used to determine how well the various features of the models correlated with the price (target variable). R Squared value of around 0.45 was observed for price vs. sqft_living. Adding features such as bedrooms and bathrooms improved the R Squared value to .5.  
+A new approach was taken to include additional data in the models including the categorical data of "Grade" and Median Income of zip codes. Using One Hot encoding to represent the categorica values as numbers allowed for their inclusion in the models. The grade data increased the R Squared value to 0.6.
+Additional categorical data of "View" and whether the property was "Waterfront", raised the R Squared value to 0.63. A final model pushed the R Squared value to 0.7.  
+With the current set of data this is the highest R Squared that can be achieved without acquiring more detailed data in regards to various locations such as neighborhood features, school districts, etc.  
 
 ---
-## Evaluation
+## Evaluation/Validation
 
 ---
 ## Deployment
