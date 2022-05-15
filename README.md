@@ -110,13 +110,14 @@ LinkedIn: [https://www.linkedin.com/in/nazar-mohl/](https://www.linkedin.com/in/
 
 
 
+
 ## Repository Structure
 ```
 ├── Images
 ├── Data
 ├── .gitignore
 ├── README.md
-├── King-County-Developement-Recommendations-Prices.ipynb
-├── King-County-Developement-Recommendations.pdf
-└── King-County-Developement-Recommendations-PDF.pdf
+├── King-County-Development-Recommendations-Prices.ipynb
+├── King-County-Development-Recommendations.pdf
+└── King-County-Development-Recommendations-PDF.pdf
 
