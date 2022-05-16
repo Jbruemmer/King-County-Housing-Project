@@ -116,8 +116,8 @@ LinkedIn: [https://www.linkedin.com/in/nazar-mohl/](https://www.linkedin.com/in/
 ├── Images
 ├── Data
 ├── .gitignore
-├── README.md
-├── King-County-Development-Recommendations-Prices.ipynb
-├── King-County-Development-Recommendations.pdf
-└── King-County-Development-Recommendations-PDF.pdf
-
+├── King County Development Recommendations (Final).pptx
+├── King County Development Recommendations PDF.pdf
+├── King County Development Recommendations Presentation.pdf.pdf
+├── King County Development Recommendations.ipynb
+└── README.md
