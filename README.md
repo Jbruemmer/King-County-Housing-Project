@@ -90,7 +90,7 @@ Using the data provided, a more complicated model could be made to improve its a
 Additionally, more data could be gathered to improve our location metrics. Although median income served as a reasonable proxy for a neighborhood's desirability it's not a perfect predictor. Researching things such as school districts, walkability, or crime would improve the model.
 
 ## In Depth Analysis
-If you would like to see more in depth analysis please see either the *[Jupyter Notebook](https://github.com/Jbruemmer/Movie-Studio-Analysis/blob/main/Movie%20Box%20Office%20Analysis%20Jupyter%20Notebook.ipynb)* or the *[Slide Deck](https://github.com/Jbruemmer/Movie-Studio-Analysis/blob/main/Presentation%20Movie%20Studio%20PDF.pdf)*.
+If you would like to see more in depth analysis please see either the *[Jupyter Notebook](https://github.com/Jbruemmer/King-County-Housing-Project/blob/main/King%20County%20Development%20Recommendations.ipynb)* or the *[Slide Deck](https://github.com/Jbruemmer/King-County-Housing-Project/blob/main/King%20County%20Development%20Recommendations%20(Final).pptx)*.
 
 If you would like to get in contact you can message Argon Team on Github or reach out to us:
 #### John Bruemmer:
